@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<title>Aleksei Birev | rsschool-cv</title>
+<title>Aleksei Birev </title>
 <meta name="generator" content="Jekyll v3.9.0" />
 <link rel="canonical" href="https://birman126.github.io/rsschool-cv/cv" />
 <meta property="og:url" content="https://birman126.github.io/rsschool-cv/cv" />
 <meta property="og:site_name" content="rsschool-cv" />
 <meta name="twitter:card" content="summary" />
-<script type="application/ld+json">
+
 
 
     
