@@ -12,19 +12,17 @@
 <meta property="og:url" content="https://birman126.github.io/rsschool-cv/cv" />
 <meta property="og:site_name" content="rsschool-cv" />
 <meta name="twitter:card" content="summary" />
-
-
-
-    
+   
   </head>
+
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
+         
       <h1><a href="https://birman126.github.io/rsschool-cv/cv">rsschool-cv</a></h1>
       
 
       <h1 id="Birev-Aleksei">Birev Aleksei</h1>
       <img src="https://sun9-55.userapi.com/impg/w3qx7FySIFd0MvWDgTpoAVtSBIRiXsVliEWuxw/MvU31DR9PQ8.jpg?size=377x500&quality=95&sign=8bd1eabff27defdf446352d6559b05b5&type=album">
+     
 <h3 id="junior-frontend-developer">Junior Frontend JS-Developer</h3>
 
 <hr />
@@ -59,7 +57,7 @@
   <li>Adobe Photoshop</li>
 </ul>
 
-<h3 id="positive traits">positive traits</h3>
+<h4 id="positive traits">positive traits</h4>
 
 <ul>
   <li>Очень хочу работать в разработке</li>
