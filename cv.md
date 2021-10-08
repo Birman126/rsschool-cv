@@ -1,25 +1,15 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Aleksei Birev </title>
 
-
-<title>Aleksei Birev </title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<link rel="canonical" href="https://birman126.github.io/rsschool-cv/cv" />
-<meta property="og:url" content="https://birman126.github.io/rsschool-cv/cv" />
-<meta property="og:site_name" content="rsschool-cv" />
-<meta name="twitter:card" content="summary" />
-   
   </head>
 
   <body>         
-      <h1><a href="https://birman126.github.io/rsschool-cv/cv">rsschool-cv</a></h1>
+  <h1><a href="https://birman126.github.io/rsschool-cv/cv">rsschool-cv</a></h1>
       
 
-      <h1 id="Birev-Aleksei">Birev Aleksei</h1>
+  <h1 id="Birev-Aleksei">Birev Aleksei</h1>
       <img src="https://sun9-55.userapi.com/impg/w3qx7FySIFd0MvWDgTpoAVtSBIRiXsVliEWuxw/MvU31DR9PQ8.jpg?size=377x500&quality=95&sign=8bd1eabff27defdf446352d6559b05b5&type=album"></img>
      
 <h3 id="junior-frontend-developer">Junior Frontend JS-Developer</h3>
