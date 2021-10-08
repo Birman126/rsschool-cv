@@ -10,7 +10,7 @@
       
 
   <h1 id="Birev-Aleksei">Birev Aleksei</h1>
-      <img src="https://sun9-55.userapi.com/impg/w3qx7FySIFd0MvWDgTpoAVtSBIRiXsVliEWuxw/MvU31DR9PQ8.jpg?size=377x500&quality=95&sign=8bd1eabff27defdf446352d6559b05b5&type=album" width="320" height="240"></img>
+      <img src="https://sun9-55.userapi.com/impg/w3qx7FySIFd0MvWDgTpoAVtSBIRiXsVliEWuxw/MvU31DR9PQ8.jpg?size=377x500&quality=95&sign=8bd1eabff27defdf446352d6559b05b5&type=album" width="240" height="320"></img>
      
 <h3 id="junior-frontend-developer">Junior Frontend JS-Developer</h3>
 
